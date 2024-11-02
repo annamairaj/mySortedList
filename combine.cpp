@@ -1,12 +1,3 @@
-using namespace std;
-#include <iostream>
-#include <vector>
-
-// CS311 Ho  FALL24 combine.cpp
-// Must use the algorithm that is in the notes! 
-//  NEVER delete my comments!!
-//--------------------------------------------
-//CS311 HW2P2 Combine 
 //Name: Anna Mairaj
 //Compiler: g++
 //--------------------------------------------
